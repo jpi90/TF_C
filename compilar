@@ -1,5 +1,8 @@
 #!/bin/bash
 
+mkdir build
+mkdir bin
+
 gcc -c -g main.c -o build/main.o
 
 gcc -W -lm build/main.o -o bin/TF_C
