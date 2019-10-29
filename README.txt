@@ -1,4 +1,4 @@
-Compilación: Ejecutar en una consola ./compilar
+Compilación: Para compilar el código existe un Makefile. Se debe compilar mediante el comando "make".
 			 Esto generará un ejecutable en la carpeta bin llamado TF_C.
 
 Pre-requisito: En la misma carpeta donde se ejecute el programa, se debe incluir el archivo de telemetría "TITAraw_tlmy.bin".
